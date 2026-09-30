@@ -1,14 +1,13 @@
 ---
 title: OpenEMR Foundation, Inc. Corporate Bylaws
-date: 2026-09-06
-status: In effect — as amended 2026-09-06
+date: 2018-05-17
+status: Superseded — see ../CURRENT.md
 author: OpenEMR Foundation Board of Directors
 ---
 
 # OpenEMR Foundation, Inc. — Corporate Bylaws
 
-*As amended 2026-09-06 (Amendments 1–5, adopted by unanimous written consent of the board of directors).
-Amendment history: [`../CHANGELOG.md`](../CHANGELOG.md). Prior text: [`ARCHIVE/bylaws-pre-2026-amendments.md`](ARCHIVE/bylaws-pre-2026-amendments.md).*
+*Text as in effect prior to Amendments 1–5 (2026). Amendment history: [`../../CHANGELOG.md`](../../CHANGELOG.md).*
 
 ## Table of Contents
 
@@ -34,7 +33,7 @@ Amendment history: [`../CHANGELOG.md`](../CHANGELOG.md). Prior text: [`ARCHIVE/b
 - Article 5 Committees
   - Section 5.1 Committees
   - Section 5.2 Meetings and action of committees
-  - Section 5.3 Advisory Committees
+  - Section 5.3 Informal action by the board of directors
 - Article 6 Officers
   - Section 6.1 Board Officers
   - Section 6.2 Term of Office
@@ -44,7 +43,6 @@ Amendment history: [`../CHANGELOG.md`](../CHANGELOG.md). Prior text: [`ARCHIVE/b
   - Section 6.6 Secretary
   - Section 6.7 Treasurer
   - Section 6.8 Non-Director Officers
-  - Section 6.9 Executive Director
 - Article 7 Contracts, Checks, Loans, Indemnification and Related Matters
   - Section 7.1 Contracts and other Writings
   - Section 7.2 Checks, Drafts
@@ -192,10 +190,6 @@ Special meetings of the board may be called by the president, vice president, se
 
 Any director may waive notice of any meeting, in accordance with Delaware law.
 
-#### §4.7.4 Action Without a Meeting.
-
-Any action required or permitted to be taken by the board of directors at a meeting may be taken without a meeting if all directors then in office consent thereto in writing. For purposes of this section, an e-mail transmission from a director's e-mail address on record constitutes a valid written consent. Such written consents shall be filed with the minutes of the proceedings of the board.
-
 ### Section 4.8 Manner of Acting
 
 #### §4.8.1 Quorum.
@@ -250,9 +244,9 @@ The board of directors may, by the resolution adopted by a majority of the direc
 
 Meetings and action of the committees shall be governed by and held and taken in accordance with, the provisions of Article 4 of these Bylaws concerning meetings of the directors, with such changes in the context of those Bylaws as are necessary to substitute the committee and its members for the board of directors and its members, except that the time for regular meetings of committees may be determined either by resolution of the board of directors or by resolution of the committee. Special meetings of the committee may also be called by resolution of the board of directors. Notice of special meetings of committees shall also be given to any and all alternate members, who shall have the right to attend all meetings of the committee. Minutes shall be kept of each meeting of any committee and shall be filed with the corporate records. The board of directors may adopt rules for the governing of the committee not inconsistent with the provision of these Bylaws.
 
-### Section 5.3 Advisory Committees
+### Section 5.3 Informal action by the board of directors
 
-The board of directors may establish advisory committees consisting of any persons it deems appropriate, including non-directors. Advisory committees shall have no authority to act on behalf of the board or the corporation, and their role shall be limited to providing recommendations, analysis, or counsel to the board or to committees established under Section 5.1. Advisory committees shall be chaired by at least one director, who shall report the committee's recommendations to the board.
+Any action required or permitted to be taken by the board of directors at a meeting may be taken without a meeting if consent in writing, setting forth the action so taken, shall be agreed by the consensus of a quorum. For purposes of this section an e-mail transmission from an e-mail address on record constitutes a valid writing. The intent of this provision is to allow the board of directors to use email to approve actions, as long as a quorum of board members gives consent.
 
 ## ARTICLE 6 OFFICERS
 
@@ -288,77 +282,11 @@ The treasurer shall be the lead director for oversight of the financial conditio
 
 The board of directors may designate additional officer positions of the corporation and may appoint and assign duties to other non-director officers of the corporation.
 
-### Section 6.9 Executive Director
-
-The board of directors may designate one board member to serve as Executive Director, responsible for day-to-day operations and management of the corporation. The Executive Director serves as a volunteer without compensation and is subject to the direction and oversight of the board of directors. The Executive Director is a board officer for purposes of Section 6.2 and shall serve a one-year term, subject to the limits on consecutive terms set forth therein.
-
-#### §6.9.1 Duties and Responsibilities.
-
-The Executive Director shall:
-
-(a) Manage daily operations of the corporation and implement board policies and decisions;
-
-(b) Serve as primary liaison to the OpenEMR open-source community, developers, and users;
-
-(c) Coordinate with regulatory bodies, including the Office of the National Coordinator for Health Information Technology (ONC), on certification and compliance matters, and report to the board any material representation, undertaking, or commitment made to such bodies on behalf of the corporation;
-
-(d) Work in conjunction with the treasurer on financial management, including furnishing the treasurer with accurate and complete financial records; providing the treasurer with the information necessary to prepare financial reports for board review; supporting timely filing of required tax returns and regulatory filings (Form 990, state registrations, etc.); and assisting with budget preparation and monitoring. Financial reports to the board shall be presented by or through the treasurer;
-
-(e) Manage technical infrastructure, including hosting, security, and availability of Foundation systems;
-
-(f) Execute contracts, agreements, and other documents as authorized by Section 7.1 of these Bylaws and as delegated by the board;
-
-(g) Coordinate fundraising activities and donor relations, subject to board oversight;
-
-(h) Ensure compliance with all applicable laws, regulations, and certification requirements;
-
-(i) Attend all board meetings and provide regular reports on operational activities and progress toward organizational goals; financial status and budget performance; technical infrastructure and security matters; certification and compliance status; community engagement and development activities; and risks, challenges, and significant issues requiring board attention;
-
-(j) Perform such other duties as may be assigned by the board of directors or board president.
-
-#### §6.9.2 Authority and Limitations.
-
-The Executive Director may handle routine operational matters within approved budgets and policies but shall seek board approval for:
-
-(a) Any unbudgeted expenditure or contract exceeding $500, or any series of related expenditures or contracts with the same counterparty exceeding $2,500 in a fiscal year. Expenditures within a line item of a board-approved annual budget require no separate approval. The board may adjust these thresholds by resolution;
-
-(b) Except for contracts or commitments within a line item of a board-approved annual budget, contracts or commitments that: (i) extend beyond twelve months; (ii) have a total value over the full term exceeding the annual aggregate threshold set forth in subsection (a), regardless of payment schedule; (iii) are not terminable by the corporation upon sixty (60) days' written notice without penalty; or (iv) renew automatically absent affirmative action by the corporation;
-
-(c) Acquisition, disposition, or encumbrance of real property or significant corporate assets;
-
-(d) Borrowing money or creating debt obligations on behalf of the corporation;
-
-(e) Initiating or settling litigation;
-
-(f) Matters involving the OpenEMR trademark, including licensing or transfer agreements;
-
-(g) Major policy changes affecting the corporation's mission, programs, or tax-exempt status;
-
-(h) Any commitment or undertaking to ONC or other regulatory bodies, other than routine correspondence, submission of information previously approved by the board, and administrative filings;
-
-(i) Any transaction, contract, or arrangement between the corporation and any director or officer, or with any entity in which any director or officer has a material financial interest, regardless of amount, subject to review under the conflict of interest policy adopted pursuant to Section 8.3, with the interested party recused.
-
-#### §6.9.3 Delegation.
-
-The Executive Director may delegate specific operational responsibilities to other board members, volunteers, or contractors while retaining overall accountability to the board of directors. No matter requiring board approval under §6.9.2 may be delegated. Any delegation to a person who is an employee, officer, owner, or contractor of an entity that provides goods or services to the corporation, or that otherwise has a material financial interest in a transaction with the corporation, shall be disclosed to the board.
-
-#### §6.9.4 Term and Removal.
-
-The Executive Director serves at the pleasure of the board of directors and may be removed from the Executive Director position at any time by board resolution, with or without cause, while retaining their position as a board member unless separately removed under the applicable provisions of these Bylaws governing removal of directors.
-
-#### §6.9.5 Incompatible Offices.
-
-The Executive Director shall not simultaneously serve as treasurer of the corporation.
-
-#### §6.9.6 Designation and Vacancy.
-
-Designation of the Executive Director shall be by resolution of the board of directors recorded in the minutes. The position becomes vacant upon resignation, removal under §6.9.4, or the holder ceasing to be a director. Pending designation of a successor, the duties of the Executive Director shall be performed by the board president or such other director as the board may designate.
-
 ## ARTICLE 7 CONTRACTS, CHECKS, LOANS, INDEMNIFICATION AND RELATED MATTERS
 
 ### Section 7.1 Contracts and other Writings
 
-Except as otherwise provided by resolution of the board or board policy, all contracts, deeds, leases, mortgages, grants, and other agreements of the corporation shall be executed on its behalf by the treasurer, the Executive Director (if designated), or other persons to whom the corporation has delegated authority to execute such documents in accordance with policies approved by the board.
+Except as otherwise provided by resolution of the board or board policy, all contracts, deeds, leases, mortgages, grants, and other agreements of the corporation shall be executed on its behalf by the treasurer or other persons to whom the corporation has delegated authority to execute such documents in accordance with policies approved by the board.
 
 ### Section 7.2 Checks, Drafts
 
@@ -560,7 +488,5 @@ Secretary __________________________
 
 Date: ________________________
 
-*The certificate above is reproduced as it appears in the original document of record and
-certifies the bylaws as originally adopted. Amendments since then are recorded in
-[`../CHANGELOG.md`](../CHANGELOG.md). Certified copies of the bylaws as amended are maintained
-with the corporate records by the Secretary (Section 8.1).*
+*The certificate above is reproduced as it appears in the document of record. Certified copies
+are maintained with the corporate records by the Secretary (Section 8.1).*
