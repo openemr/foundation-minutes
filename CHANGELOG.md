@@ -22,7 +22,6 @@ Adopted by unanimous written consent of the board of directors.
 - **Vote:** unanimous, all directors then in office
 - **Consents:** filed with the minutes per §4.7.4
 - **Minutes:** [2026-09-09-Board.md](2026-09-09-Board.md) records the approval by e-mail
-- **Ratified:** *pending, at the next regular meeting (see below)*
 - **Source:** [`amendments/2026-bylaws-amendments-1-5.md`](amendments/2026-bylaws-amendments-1-5.md)
 - **Prior text:** [`bylaws/ARCHIVE/bylaws-pre-2026-amendments.md`](bylaws/ARCHIVE/bylaws-pre-2026-amendments.md)
 
@@ -33,13 +32,6 @@ Adopted by unanimous written consent of the board of directors.
 | 6.9 | New. Executive Director, §§6.9.1–6.9.6. |
 | 7.1 | Amended. Executive Director (if designated) added to authorized signatories. |
 | Table of contents | Conforming updates. |
-
-**Ratification.** Section 8.5 provides for amendment "at a meeting of the Board." These
-amendments were adopted by unanimous written consent. To be ratified at the next regular
-meeting:
-
-> "RESOLVED, that the amendments to the Bylaws adopted by unanimous written consent of the board
-> of directors on [date] are hereby ratified and confirmed."
 
 ---
 
