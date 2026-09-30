@@ -43,50 +43,6 @@ meeting:
 
 ---
 
-## Pending — not yet adopted
-
-### Revisions to Section 6.9
-
-Proposed by a director after the Amendments 1–5 packet was circulated. Not part of the adopted
-text; held for a future amendment package.
-
-1. **§6.9.2(a)** — raise thresholds to $1,000 unbudgeted / $4,000 annual same-counterparty
-   aggregate.
-2. **§6.9.2(b)** — narrow the budget exemption to clauses (i) and (ii). As adopted, the
-   exemption reaches all four clauses, so a multi-year, non-terminable, auto-renewing contract
-   within an approved annual line item does not require board approval. Proposed text:
-
-   > "(b) Contracts or commitments that: (i) extend beyond twelve months; (ii) have a total
-   > value over the full term exceeding the annual aggregate threshold set forth in subsection
-   > (a), regardless of payment schedule; (iii) are not terminable by the corporation upon
-   > sixty (60) days' written notice without penalty; or (iv) renew automatically absent
-   > affirmative action by the corporation. Contracts within a line item of a board-approved
-   > annual budget are exempt from clauses (i) and (ii), provided such contracts are terminable
-   > by the corporation upon sixty (60) days' written notice without penalty and do not renew
-   > automatically absent affirmative action by the corporation."
-
-3. **§6.9.1(f)** — append "subject to the approval requirements of §6.9.2".
-4. **§6.9.6** — add annual re-designation:
-
-   > "The board shall consider designation of the Executive Director annually, at or before the
-   > meeting at which officers are elected under Section 6.2. Consistent with Section 6.2, an
-   > Executive Director's term continues until the adjournment of the board meeting at which a
-   > successor is designated or at which the board declines to re-designate."
-
-   and add "adoption of a board resolution declining re-designation" to the vacancy triggers.
-
-### Housekeeping
-
-- **§6.9.4** — pin "the applicable provisions of these Bylaws governing removal of directors"
-  to Section 4.6.
-- **§6.9.2(b)(iv)** — specify whether approval of an auto-renewing contract is required once at
-  signing or at each renewal.
-- **§§2.2.2/2.2.4, 2.2.3/2.2.5** — verbatim duplicates.
-- **§5.1(b)** — stray "of" in "fill vacancies on the board of directors of in any committee."
-- **Article 12** — section beneath the heading is numbered "13.01."
-- **Certificate of Adoption** — original adoption date was never filled in; `bylaws/ARCHIVE/`
-  and the original frontmatter use the date of incorporation (2018-05-17) in its place.
-
 <!--
 Entry template:
 

@@ -9,9 +9,7 @@ author: OpenEMR Foundation Board of Directors
 
 **OpenEMR Foundation, Inc.**
 
-*Text as circulated to the board and adopted. Later proposed revisions are recorded in
-[`../CHANGELOG.md`](../CHANGELOG.md) under "Pending — not yet adopted" and are not part of
-this text.*
+*Text as circulated to the board and adopted.*
 
 The following amendments are proposed for adoption by resolution of the board of directors.
 Pursuant to Section 5.1(c) of the current Bylaws, no committee may amend or repeal the Bylaws;
