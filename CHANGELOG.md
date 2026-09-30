@@ -20,14 +20,13 @@ kept in [`bylaws/ARCHIVE/`](bylaws/ARCHIVE/).
 Adopted by unanimous written consent of the board of directors.
 
 - **Vote:** unanimous, all directors then in office
-- **Consents:** filed with the minutes per §4.7.4
 - **Minutes:** [2026-09-09-Board.md](2026-09-09-Board.md) records the approval by e-mail
 - **Source:** [`amendments/2026-bylaws-amendments-1-5.md`](amendments/2026-bylaws-amendments-1-5.md)
 - **Prior text:** [`bylaws/ARCHIVE/bylaws-pre-2026-amendments.md`](bylaws/ARCHIVE/bylaws-pre-2026-amendments.md)
 
 | Section | Change |
 |---|---|
-| §4.7.4 | New. Action Without a Meeting — unanimous written consent; e-mail valid; consents filed with minutes. |
+| §4.7.4 | New. Action Without a Meeting — unanimous written consent; e-mail valid. |
 | 5.3 | Replaced. "Informal action by the board of directors" deleted; "Advisory Committees" adopted in its place. |
 | 6.9 | New. Executive Director, §§6.9.1–6.9.6. |
 | 7.1 | Amended. Executive Director (if designated) added to authorized signatories. |
