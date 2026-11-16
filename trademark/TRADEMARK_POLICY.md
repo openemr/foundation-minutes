@@ -4,7 +4,7 @@
 
 The OpenEMR Foundation, Inc. ("the Foundation") is the steward of the OpenEMR project and the owner of the OPENEMR trademarks. OpenEMR is free and open source software: anyone may use, modify, and redistribute the software under the terms of the GNU General Public License. The software license, however, does not grant rights to the OpenEMR name and logo. Trademarks exist so that users — including the clinics and health systems that depend on OpenEMR for patient care — can tell what is the genuine project, who stands behind a given product or service, and what the Foundation has or has not endorsed.
 
-This policy explains how the OpenEMR marks may be used. Its goals are to protect users from confusion, to preserve the strength of the marks for the whole community, and to keep use of the name as easy as possible for the community members, contributors, and service providers whose work has sustained OpenEMR for more than two decades.
+This policy explains how the OpenEMR marks may be used. Its goals are to protect users from confusion, to preserve the strength of the marks for the whole community, and to keep use of the name as easy as possible for the community members, contributors, and service providers whose work has sustained OpenEMR for more than two decades. Nothing in this policy grants any right to use the Marks as, or as part of, the name of any product, service, or business, or in any manner other than to refer to the genuine OpenEMR software.
 
 ## 2. The Marks
 
@@ -17,7 +17,7 @@ The Foundation claims and asserts trademark rights in the Marks, including right
 
 ## 3. Uses That Do Not Require Permission
 
-The following uses are permitted without asking, provided they are truthful, do not suggest Foundation sponsorship or endorsement where none exists, and comply with the rest of this policy:
+The following uses are nominative or descriptive references to the genuine OpenEMR software — they use the name to refer to the Foundation's software, not as a mark for anyone else's goods or services — and are permitted without asking, provided they are truthful, do not suggest Foundation sponsorship or endorsement where none exists, and comply with the rest of this policy:
 
 **a. Referring to the software.** Using "OpenEMR" to truthfully refer to the OpenEMR software, including in documentation, articles, books, courses, presentations, academic research, and comparisons.
 
@@ -56,7 +56,7 @@ Requests should be sent to the Foundation at the address in Section 7. The Found
 
 ## 6. The OpenEMR Ecosystem
 
-A broad community of companies and individuals provides hosting, support, implementation, customization, and development services for OpenEMR. The Foundation welcomes this ecosystem; it is how free software reaches the clinics that need it. Uses of the Marks by ecosystem participants that conform to Section 3 are nominative, descriptive uses made consistent with this policy and with the Foundation's rights, and do not require individual licenses. The Foundation's tolerance of conforming descriptive uses is an exercise of this policy, not a waiver of its rights, and the Foundation reserves the right to object to any use that does not conform.
+A broad community of companies and individuals provides hosting, support, implementation, customization, and development services for OpenEMR. The Foundation welcomes this ecosystem; it is how free software reaches the clinics that need it. Uses of the Marks by ecosystem participants that conform to Section 3 are nominative, descriptive references to the Foundation's software, made consistent with this policy and with the Foundation's rights; they are not licenses to the Marks and grant no rights in them. The Foundation's tolerance of conforming references is an exercise of this policy, not a waiver of its rights, and the Foundation reserves the right to object to any use that does not conform.
 
 ## 7. Permission Requests and Questions
 
