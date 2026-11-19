@@ -1,5 +1,7 @@
 # OpenEMR Trademark Usage Policy
 
+*Adopted by the Board of Directors by unanimous written consent on November 19, 2026.*
+
 ## 1. Purpose
 
 The OpenEMR Foundation, Inc. ("the Foundation") is the steward of the OpenEMR project and the owner of the OPENEMR trademarks. OpenEMR is free and open source software: anyone may use, modify, and redistribute the software under the terms of the GNU General Public License. The software license, however, does not grant rights to the OpenEMR name and logo. Trademarks exist so that users — including the clinics and health systems that depend on OpenEMR for patient care — can tell what is the genuine project, who stands behind a given product or service, and what the Foundation has or has not endorsed.
@@ -62,7 +64,7 @@ A broad community of companies and individuals provides hosting, support, implem
 
 Requests for permission, questions about this policy, and reports of misuse should be directed to:
 
-**OpenEMR Foundation, Inc.** — trademark@open-emr.org *(address to be confirmed before publication)*
+**OpenEMR Foundation, Inc.** — trademark@open-emr.org
 
 The Foundation will respond to good-faith requests promptly and aims to say yes wherever user confusion is not at risk.
 
