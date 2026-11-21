@@ -1,6 +1,6 @@
 # OpenEMR Trademark Usage Policy
 
-*Adopted by the Board of Directors by unanimous written consent on November 19, 2026.*
+*Adopted by the Board of Directors by unanimous written consent on November 20, 2026.*
 
 ## 1. Purpose
 
