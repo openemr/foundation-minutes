@@ -1,7 +1,7 @@
 # Written Consent of the Board of Directors
 
 **OpenEMR Foundation, Inc.**
-**November 19, 2026**
+**November 20, 2026**
 
 The Board of Directors of OpenEMR Foundation, Inc., acting by unanimous
 written consent in lieu of a meeting, adopted the following resolutions:
